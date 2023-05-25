@@ -6,7 +6,7 @@
 
 ## Welcome
 
-Thank you for attending this Washington Systems Center(WSC) workshop. 
+Thank you for attending this Washington Systems Center(WSC) workshop for UCLA. 
 
 ## Accessing the hands-on lab
 
