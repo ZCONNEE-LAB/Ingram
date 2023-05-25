@@ -1,15 +1,15 @@
 IBM z/OS Connect EE Workshop,,,,,,,,
 Serial No,URL,User ID for Web browser,IP Address for Remote Desktop,User ID for Remote Desktop,Password,Domain,machine #,
-2,https://T-4462-169-59-150-140.ibmztrialmachines.com/,Administrator,T-4462-169-59-150-140.ibmztrialmachines.com,w-4462-k\Administrator,Zy4BVRpPf0bqXHUGv0RM,w-4462-k,4462,person1@ucla.edu
-8,https://T-4468-169-59-150-135.ibmztrialmachines.com/,Administrator,T-4468-169-59-150-135.ibmztrialmachines.com,w-4468-k\Administrator,Wu8q8dKTkNjV9pixbPyR,w-4468-k,4468,person2@ucla.edu
-6,https://T-4466-169-59-150-144.ibmztrialmachines.com/,Administrator,T-4466-169-59-150-144.ibmztrialmachines.com,w-4466-k\Administrator,EVG02mU3HNEvsSo4PYGF,w-4466-k,4466,person3@ucla.edu
-11,https://T-4471-169-59-184-111.ibmztrialmachines.com/,Administrator,T-4471-169-59-184-111.ibmztrialmachines.com,w-4471-k\Administrator,6XbY6FktcitisilT48Pi,w-4471-k,4471,person4@ucla.edu
-15,https://T-4476-169-59-184-220.ibmztrialmachines.com/,Administrator,T-4476-169-59-184-220.ibmztrialmachines.com,w-4476-k\Administrator,KgHygVwHyGbFkn6hCgKL,w-4476-k,4476,person5@ucla.edu
-17,https://T-4478-169-59-184-68.ibmztrialmachines.com/,Administrator,T-4478-169-59-184-68.ibmztrialmachines.com,w-4478-k\Administrator,DCBAwT1gtEPqGnhXqgw7,w-4478-k,4478,person6@ucla.edu
-10,https://T-4470-169-59-184-211.ibmztrialmachines.com/,Administrator,T-4470-169-59-184-211.ibmztrialmachines.com,w-4470-k\Administrator,o9hNwcmLTuzehZMuVDRQ,w-4470-k,4470,person7@ucla.edu
-5,https://T-4465-169-59-184-114.ibmztrialmachines.com/,Administrator,T-4465-169-59-184-114.ibmztrialmachines.com,w-4465-k\Administrator,pqfhiuSDXrSty0Z2P4ZE,w-4465-k,4465,person8@ucla.edu
-20,https://T-4481-169-59-184-247.ibmztrialmachines.com/,Administrator,T-4481-169-59-184-247.ibmztrialmachines.com,w-4481-k\Administrator,cgKHULktrU9ICswY6mSX,w-4481-k,4481,person9@ucla.edu
-16,https://T-4479-169-59-184-134.ibmztrialmachines.com/,Administrator,T-4479-169-59-184-134.ibmztrialmachines.com,w-4479-k\Administrator,8R6diz2xpcIbMY7z086y,w-4479-k,4479,person10@ucla.edu
+2,https://T-4462-169-59-150-140.ibmztrialmachines.com/,Administrator,T-4462-169-59-150-140.ibmztrialmachines.com,w-4462-k\Administrator,Zy4BVRpPf0bqXHUGv0RM,w-4462-k,4462,bcc725a4cc2368a867c4e7b383418eb3
+8,https://T-4468-169-59-150-135.ibmztrialmachines.com/,Administrator,T-4468-169-59-150-135.ibmztrialmachines.com,w-4468-k\Administrator,Wu8q8dKTkNjV9pixbPyR,w-4468-k,4468,593199be8f9509e0b6cfdb6ebbd74c40
+6,https://T-4466-169-59-150-144.ibmztrialmachines.com/,Administrator,T-4466-169-59-150-144.ibmztrialmachines.com,w-4466-k\Administrator,EVG02mU3HNEvsSo4PYGF,w-4466-k,4466,6350250344fc41d716a1d42dc3a42f97
+11,https://T-4471-169-59-184-111.ibmztrialmachines.com/,Administrator,T-4471-169-59-184-111.ibmztrialmachines.com,w-4471-k\Administrator,6XbY6FktcitisilT48Pi,w-4471-k,4471,263304df3437b8d63220e6724d8c93d0
+15,https://T-4476-169-59-184-220.ibmztrialmachines.com/,Administrator,T-4476-169-59-184-220.ibmztrialmachines.com,w-4476-k\Administrator,KgHygVwHyGbFkn6hCgKL,w-4476-k,4476,45cc63654842d64dbefcc2d4dbbe4ad8
+17,https://T-4478-169-59-184-68.ibmztrialmachines.com/,Administrator,T-4478-169-59-184-68.ibmztrialmachines.com,w-4478-k\Administrator,DCBAwT1gtEPqGnhXqgw7,w-4478-k,4478,75f0bd542a60711c7ae4e34338a0b940
+10,https://T-4470-169-59-184-211.ibmztrialmachines.com/,Administrator,T-4470-169-59-184-211.ibmztrialmachines.com,w-4470-k\Administrator,o9hNwcmLTuzehZMuVDRQ,w-4470-k,4470,a117273b01ae6bbc8a5539d62b5bc7a5
+5,https://T-4465-169-59-184-114.ibmztrialmachines.com/,Administrator,T-4465-169-59-184-114.ibmztrialmachines.com,w-4465-k\Administrator,pqfhiuSDXrSty0Z2P4ZE,w-4465-k,4465,e1b10fc97bf8d18d0172b0738ad2573f
+20,https://T-4481-169-59-184-247.ibmztrialmachines.com/,Administrator,T-4481-169-59-184-247.ibmztrialmachines.com,w-4481-k\Administrator,cgKHULktrU9ICswY6mSX,w-4481-k,4481,54946b8bc93dad6ae1b46db13461de01
+16,https://T-4479-169-59-184-134.ibmztrialmachines.com/,Administrator,T-4479-169-59-184-134.ibmztrialmachines.com,w-4479-k\Administrator,8R6diz2xpcIbMY7z086y,w-4479-k,4479,6fac576f9dbb3151a398055e19550dc6
 12,https://T-4473-169-59-184-174.ibmztrialmachines.com/,Administrator,T-4473-169-59-184-174.ibmztrialmachines.com,w-4473-k\Administrator,70xa0VDCLrCsLRJsl0kB,w-4473-k,4473,person11@ucla.edu
 21,https://T-4477-169-59-184-248.ibmztrialmachines.com/,Administrator,T-4477-169-59-184-248.ibmztrialmachines.com,w-4477-k\Administrator,VfzFZ7QHL23eZgBfQu66,w-4477-k,4477,person12@ucla.edu
 4,https://T-4464-169-59-184-177.ibmztrialmachines.com/,Administrator,T-4464-169-59-184-177.ibmztrialmachines.com,w-4464-k\Administrator,wPF8Z4hoHicR4aKuwyIu,w-4464-k,4464,person13@ucla.edu
