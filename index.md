@@ -14,9 +14,9 @@ Click [here](https://github.com/ZCONNEE-LAB/CVS/blob/b056aa86bc0595d6bd137f59c52
 
 Clink [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/zva/Important-Read%20Me.pdf) for important information regarding credentials for accessing z/OS, the Designer containers as well as the 3270 emulator (Personal Communications) keyboard mappings for the **Enter** and **Clear** keys as well as information on how to customize the 3270 Personal Communications keyboard for use on Mac keyboards.
 
-Exercises for generating OpenAPI 2 specification documents are available at Box@IBM [here](https://ibm.box.com/v/WSC-OpenAPi2) and/or at Github [here]( https://ibm.biz/BdPbPs).
+Exercises based on an OpenAPI 2 specification system are available at Box@IBM [here](https://ibm.box.com/v/WSC-OpenAPi2) and/or at Github [here]( https://ibm.biz/BdPbPs).
 
-Exercises for consuming OpenAPI 3 specification documents are available at Box@IBM [here](https://ibm.box.com/v/WSC-OpenAPI3) and/or at Github [here](https://ibm.biz/BdPbPb).
+Exercises using an OpenAPI 3 specification system are available at Box@IBM [here](https://ibm.box.com/v/WSC-OpenAPI3) and/or at Github [here](https://ibm.biz/BdPbPb).
 
 Exercises for the developing of z/OS Connect API Requester applications are available at Box@IBM [here](https://ibm.box.com/v/WSC-APIRequester) and/or Github [here](https://ibm.biz/BdPbPp).
 
